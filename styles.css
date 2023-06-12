@@ -1,0 +1,21 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+.Educacion{
+    background-color: grey;
+    color: white;
+}
+
+.Experiencia{
+    background-color: darkslateblue;
+    color: white;
+}
+
+.contacto{
+    background-color: coral;
+    outline-style: dashed;
+
+}
+
+h2{
+    background-color: black;
+    color: white;
+}
