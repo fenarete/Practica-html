@@ -1,21 +1,53 @@
-*{font-family: Arial, Helvetica, sans-serif;}
-.Educacion{
-    background-color: grey;
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 100%;
+}
+.rightSide{
+    float: right;
+    width: 70%;
+}
+.leftSide{
+    float: left;
+    width: 30%;
+}
+.educacion{
+    background-color: rgb(88, 119, 245);
     color: white;
 }
 
-.Experiencia{
-    background-color: darkslateblue;
+.experiencia{
+    background-color: rgb(29, 19, 97, 50%);
     color: white;
+
+   
 }
 
 .contacto{
     background-color: coral;
     outline-style: dashed;
+}
 
+header{
+    text-align: center;
 }
 
 h2{
     background-color: black;
     color: white;
+    margin-bottom: 0cm;
+}
+
+h3{
+    margin-top: 0cm;
+}
+
+h6{
+    margin-top: 0;
+    margin-bottom: 1%;
+}
+p{
+    margin-top: 1px;
 }
